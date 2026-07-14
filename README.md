@@ -38,7 +38,11 @@ This is an early-warning tool, not a physics validator. A clean report does not 
 
 ## Commercial audit service
 
-For a human-reviewed case audit with a prioritized repair memo, the companion service is scoped as a 48-hour fixed-price sprint. See the separate service brief supplied with the professional handover kit.
+For a human-reviewed case audit with a prioritized repair memo, the companion service is offered as a **48-hour fixed-price sprint for EUR 450**.
+
+The sprint includes a focused review of the supplied case, models, boundary conditions, solver controls, mesh/convergence evidence, and reproducibility; a Blocker/Major/Minor/Observation repair memo; one 30-minute readout; and one clarification round. It does not include a full production rerun, CAD/mesh rebuilding, certification, regulatory approval, or safety-critical sign-off.
+
+[Open a case-audit inquiry](https://github.com/hamed111111/openfoam-case-qa-lite/issues/new?template=case-audit-interest.md&title=Case%20audit%20inquiry%3A%20%5Bshort%20name%5D) with a short, non-confidential summary. **Do not attach proprietary case files, logs, credentials, or client data to a public issue.** A private transfer method can be agreed after scope fit is confirmed.
 
 ## License
 
